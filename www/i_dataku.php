@@ -6,7 +6,7 @@ error_reporting(0);
 
 //folder webserverku
 //$sumberku = "http://127.0.0.1:8080";
-$sumberku = "http://127.0.0.1";
+$sumberku = "http://127.0.0.1/www";
 
 
 //file ku
